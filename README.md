@@ -2,6 +2,8 @@
 
 Using Data Science with Machine Learning to detect the price of diamonds using significant features given by the most linked features that are taken into consideration when evaluating price by diamond sellers.
 
+  ![1](https://user-images.githubusercontent.com/48035751/194652434-42302240-1d26-4e3d-a6e0-c70b03bbed53.jpeg)
+
 ## Table of Contents
 * [Introduction](#introduction)
 * [Dataset General info](#dataset-general-info)
